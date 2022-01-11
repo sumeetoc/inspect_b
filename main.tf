@@ -6,3 +6,4 @@ resource "google_storage_bucket" "org_terraform_state" {
 
   force_destroy               = true
 }
+
